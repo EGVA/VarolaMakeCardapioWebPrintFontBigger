@@ -10,7 +10,3 @@ sc query RAWPrintProcessor
 sc delete RAWPrintProcessor
 
 sc create "RAWPrintProcessor" binPath="C:\Users\ericv\OneDrive\Documentos\Arruma Impressora Dotnet\bin\Release\net9.0\win-x64\publish\Arruma Impressora Dotnet.exe" start=auto
-
-
-sc start RAWPrintProcessor
-
